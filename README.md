@@ -21,5 +21,8 @@ Please take these notes about the pack into consideration.
 
 Here are some images to fulfill your desires.
 
+*Beteljise*
 ![LS_1](https://github.com/user-attachments/assets/a8be1e31-58df-45ed-81f2-5c1717b97e9f)
 
+*Banner of Miza System*
+NOT COMPLETE
