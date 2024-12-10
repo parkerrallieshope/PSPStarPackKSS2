@@ -17,6 +17,7 @@ Please take these notes about the pack into consideration.
 * Most stars do not have planets around them. There are only 2 star systems with planets around them, Miza and Beteljise. These bodies are Gachi, around Beteljise, and Yunoo, around Miza, with it's moon Huleg.
 * I highly, **HIGHLY** recommend having the Aethera system for KSS2 installed with this.
 * Parallax is currently not supported, as there are no parallax configs for the planets that do exist in this pack.
+* Scatterer doesn't have any effect on this pack either, there are no scatterer configs because there are no planets with atmospheres.
 
 ## Images
 
